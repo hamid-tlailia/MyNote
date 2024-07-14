@@ -19,7 +19,7 @@ body {
   background-color:navy;
   height: 5vh !important;
   margin-bottom: 0;
-  border-radius: 0 0 10px 10px;
+  border-radius: 0;
 }
 .floating-menu {
   display: flex;
