@@ -252,7 +252,7 @@ filter: brightness(120%);
     width: 12px; /* Set the desired width */
 }
 ::-webkit-scrollbar-thumb {
-    background-color: #C1C1C1; /* Set the thumb color */
+    background-color: transparent; /* Set the thumb color */
 }
 ::-webkit-scrollbar-track {
     background-color: transparent; /* Make the track transparent */
